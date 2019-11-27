@@ -1,6 +1,6 @@
 # Portfolio
 
-### 1. SNS형 Application 개발 
+### 1. SNS형 Application 개발  (주소 : https://github.com/ohhaseon/sns_application 이쪽에서 확인 부탁드립니다.)
 #### 개발인원 : 1명
 #### 개발기간 : 2018.10-2018.12
 #### 개발언어/툴 : Java(안드로이드스튜디오), Firebase
