@@ -3,7 +3,7 @@
 
 
 ### Main Home UI
-![3_main_ui](./image/3_main_ui.jpg)
+![3_menu_ui](./image/3_menu_ui.jpg)
 
 
 ### Search Page
